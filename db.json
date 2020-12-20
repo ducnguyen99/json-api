@@ -1,22 +1,16 @@
 [
     {
-      "name": "Robert Smith",
-      "id": 4
+      "name": "Cristal",
+      "rating": 5,
+      "latitute": 40.39931099747637,
+      "longitute": -116.75832599401474,
+      "id": 1
     },
     {
-      "name": "Tan Smith",
-      "id": 5
-    },
-    {
-      "name": "Jane Smith",
-      "id": 6
-    },
-    {
-      "name": "Ola Smith",
-      "id": 7
-    },
-    {
-      "name": "Olaf",
-      "id": 8
+      "name": "Metta",
+      "rating": 4,
+      "latitute": 43.09769338267653,
+      "longitute": -114.34599380940197,
+      "id": 2
     }
-  ]
+]
